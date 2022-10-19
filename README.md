@@ -1,2 +1,2 @@
 # Bitcoin_Prediction_Prophet
-Bitirme Projei-2 Part-1
+Bitirme Projesi-2 Part-1
